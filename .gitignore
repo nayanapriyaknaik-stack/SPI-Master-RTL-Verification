@@ -1,0 +1,4 @@
+sim/spi_sim
+sim/*.vcd
+*.log
+*.tmp
